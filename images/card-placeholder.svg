@@ -1,0 +1,17 @@
+<svg viewBox="0 0 240 336" xmlns="http://www.w3.org/2000/svg">
+  <!-- Card background -->
+  <rect x="0" y="0" width="240" height="336" rx="12" fill="#f0f0f0" stroke="#d0d0d0" stroke-width="2"/>
+  
+  <!-- Pokéball icon -->
+  <circle cx="120" cy="120" r="80" fill="#f0f0f0" stroke="#d0d0d0" stroke-width="2"/>
+  <path d="M120,40 a80,80 0 0,1 0,160 a80,80 0 0,1 0,-160" fill="#f84c4c"/>
+  <path d="M120,120 h-80 a80,80 0 0,0 80,80 a80,80 0 0,0 80,-80 h-80" fill="#f0f0f0"/>
+  <circle cx="120" cy="120" r="20" fill="#f0f0f0" stroke="#d0d0d0" stroke-width="4"/>
+  <circle cx="120" cy="120" r="12" fill="#d0d0d0"/>
+  
+  <!-- Text placeholders -->
+  <rect x="40" y="220" width="160" height="20" rx="4" fill="#d0d0d0"/>
+  <rect x="60" y="250" width="120" height="16" rx="4" fill="#d0d0d0"/>
+  <rect x="80" y="276" width="80" height="16" rx="4" fill="#d0d0d0"/>
+  <rect x="90" y="302" width="60" height="16" rx="4" fill="#d0d0d0"/>
+</svg>
