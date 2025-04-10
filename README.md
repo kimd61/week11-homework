@@ -2,6 +2,8 @@
 
 a simple web app to track your pokémon card collection.
 
+<img src="/images/screenshot">
+
 ## features
 
 - search for pokémon cards
